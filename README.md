@@ -1,49 +1,42 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 👋 Hi, I'm Nam Trần  
 
-###
+🎓 I'm a Computer Science student at **Hanoi University of Science and Technology (HUST)**.  
+💡 Passionate about **Algorithms, Optimization, Artificial Intelligence, and Cybersecurity**.  
+⚡ Always curious to learn, build, and contribute to impactful projects.  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nemztran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nemztran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🌟 About Me  
+- 📊 Strong background in **mathematics** (former student of **Le Hong Phong High School for the Gifted**)  
+- 🛠️ Currently researching and developing **Evolutionary Algorithms**  
+- 🌱 Interested in applying **Machine Learning and Optimization** to real-world problems  
+- 🤝 Open to collaborations in **AI research, cybersecurity, and competitive programming projects**  
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## 🚀 Projects  
+- **Multifactorial Evolutionary Algorithm (MFEA)**  
+  Implemented to solve **Traveling Salesman Problem (TSP)** and **Knapsack Problem**  
+  > Techniques: crossover, mutation, adaptive search  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+## 📜 Certifications  
+- **IBM & Google Cybersecurity Professional Certificates**  
+- **HackerRank Problem Solving (Intermediate)**  
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack  
+- **Languages**: C++, Python, Java  
+- **Tools**: Git, GitHub, VS Code, Linux  
+- **Domains**: Algorithms, Optimization, AI, Cybersecurity  
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/Nemztran/Nemztran/output/snake.svg" alt="Snake animation" />
+## 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nam-tr%E1%BA%A7n-73a13b338/)  
+- 📂 [GitHub](https://github.com/namtrann)  
 
-###
+---
+✨ *“Keep exploring, keep building, keep optimizing.”* ✨
